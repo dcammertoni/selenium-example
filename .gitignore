@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Test coverage output
+coverage/
+
+# Compiled files
+*.out
+*.js.map
+
+# Build directory
+dist/
+build/
+
+# Selenium-specific
+selenium-debug.log
+
+# Browser drivers
+chromedriver
+geckodriver
+msedgedriver
+operadriver
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Mac system files
+.DS_Store
+
+# Package manager locks
+yarn.lock
+package-lock.json
